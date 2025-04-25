@@ -45,5 +45,5 @@
 | Статистика  | 20/100         | 50/100 |
 
 ## GitHub Stats:
-[![Jakuzya GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/0xjakuzya)
+[![Jakuzya GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/0xJakuzya)
 
