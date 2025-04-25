@@ -47,4 +47,3 @@
 ## GitHub Stats:
 [![Jakuzya GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/0xjakuzya)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/0xjakuzya)
