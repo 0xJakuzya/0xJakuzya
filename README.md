@@ -47,5 +47,3 @@
 ## Языки программирования
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xJakuzya&layout=compact&theme=dark&hide_border=true&exclude_repo=repo1,repo2)](https://github.com/0xJakuzya)
 
-## Календарь активности
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xJakuzya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
