@@ -41,14 +41,6 @@
 - p-value и гипотезы
 - Линейная регрессия
 
-##  Цели на 2025:
-```mermaid
-pie showData
-    title Цели развития навыков
-    "Python (70%)" : 70
-    "SQL (50%)" : 50
-    "Статистика (50%)" : 50
-
 ## Статистика профиля
 [![Jakuzya's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xJakuzya&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/0xJakuzya)
 
