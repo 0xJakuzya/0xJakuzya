@@ -1,4 +1,4 @@
-# Дима | Data Science | CS Student 
+# Дима | Go developer | CS Student 
 
 🎓 **CS Student at PGUTI** | Python, GO dev
 
