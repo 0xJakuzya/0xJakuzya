@@ -1,6 +1,6 @@
 # Дима | Go developer | CS Student 
 
-🎓 **CS Student at PGUTI** | Python, GO dev
+🎓 **CS Student at PGUTI** | Python, Data enthusiastic
 
 ##  Контакты:
 [![Telegram](https://img.shields.io/badge/-@jakuzya-0088cc?style=for-the-badge&logo=Telegram)](https://t.me/jakuzya)
