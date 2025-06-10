@@ -1,6 +1,6 @@
-# Дима | Data enthusiast | CS Student 
+# Дима | CS Student 
 
-🎓 **CS Student at PGUTI** | Python enjoyer  
+🎓 **CS Student at PGUTI**  
 
 ##  Контакты:
 [![Telegram](https://img.shields.io/badge/-@jakuzya-0088cc?style=for-the-badge&logo=Telegram)](https://t.me/jakuzya)
