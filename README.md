@@ -10,8 +10,6 @@ Welcome to my GitHub account!
 - ![SQL](https://img.shields.io/badge/-SQL-FF0000?style=flat-square&logo=mysql&logoColor=white) SQL: Для написания сложных запросов и извлечения из данных инсайтов.  
 - ![Seaborn](https://img.shields.io/badge/-Seaborn-0099CC?style=flat-square&logo=seaborn&logoColor=white) Seaborn: Для продвинутой визуализации статистических данных.  
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) Matplotlib: Для создания графиков и визуализации.  
-- ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) Apache Spark: Для обработки больших данных и распределённых вычислений.  
-
 ---
 
 ## Connect with Me  
