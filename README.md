@@ -5,7 +5,6 @@ Welcome to my GitHub account!
 I am passionate about data science, machine learning, and analytics, with interests in:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python: I enjoy using Python like pandas, NumPy, and scikit-learn.  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Linux: I leverage Linux for robust data workflows and efficient development environments.  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL: I prefer PostgreSQL for managing and querying large datasets with powerful SQL features.  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) Jupyter: My go-to tool for interactive data analysis and visualization.  
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) scikit-learn: For implementing and experimenting with machine learning models.  
