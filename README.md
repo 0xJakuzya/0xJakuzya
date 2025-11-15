@@ -3,9 +3,9 @@ Welcome to my GitHub account!
 
 ## About Me  
 
-I am a third-year bachelor's student at PSUTI, specializing in Data Science. Currently, I am engaged in projects related to data science, continuously expanding my knowledge through both coursework and hands-on experience.
+I am currently a third-year undergraduate student at PSUTI, focusing on Data Science. I am actively involved in various data science projects, which allow me to deepen my understanding through both academic coursework and practical experience.
 
-Feel free to explore my repositories, where I share a variety of projects, experiments, and insights gained throughout my data science journey.
+You are welcome to check out my repositories, where I showcase a diverse range of projects, experiments, and insights acquired during my journey in the field of data science.
 
 ## Connect with Me  
 
