@@ -1,4 +1,4 @@
-# Hi, I’m Dmitrii Kuzmin  
+# Hi, I'm Dmitrii Kuzmin  
 Welcome to my GitHub account!
 
 ## About Me  
