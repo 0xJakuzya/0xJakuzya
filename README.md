@@ -11,9 +11,9 @@ i do research at the institute of neuroscience and study data science.
 
 ## interests
 
-- machine Learning
-- data Analysis
-- artificial Intelligence
+- machine learning
+- data analysis
+- artificial intelligence
 - software engineering
 - applied research in neuroscience
 
