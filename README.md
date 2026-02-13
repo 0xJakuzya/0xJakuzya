@@ -1,23 +1,23 @@
-# Hi, I'm Dmitrii 👋
+# hi, i'm dmitrii 
 
-🎓 3rd-year BSc in Computer Science  
-🏛️ Povolzhskiy State University of Telecommunications and Informatics (PSUTI)  
-🧠 Intern Researcher at the Institute of Neuroscience  
+🎓 3rd-year BSc in computer science  
+🏛️ povolzhskiy state university of telecommunications and informatics (PSUTI)  
+🧠 intern researcher at the institute of neuroscience  
 
-## About Me
+## about me
 
-I’m a Computer Science undergraduate interested in machine learning, data analysis, and software engineering. 
-I do research at the Institute of Neuroscience and study Data Science.
+i’m a Computer Science undergraduate interested in machine learning, data analysis, and software engineering. 
+i do research at the Institute of Neuroscience and study Data Science.
 
-## Interests
+## interests
 
-- Machine Learning
-- Data Analysis
-- Artificial Intelligence
-- Software Engineering
-- Applied research in neuroscience
+- machine Learning
+- data Analysis
+- artificial Intelligence
+- software Engineering
+- applied research in neuroscience
 
-## Contact
+## contact
 
-- Email: jakuzyadd@gmail.com  
-- Telegram: @jakuzya
+- email: jakuzyadd@gmail.com  
+- telegram: @jakuzya
