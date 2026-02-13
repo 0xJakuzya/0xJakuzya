@@ -1,4 +1,4 @@
-# hi, i'm dmitrii 👋
+# hi, i'm dmitrii 
 
 🎓 3rd-year BSc in computer science  
 🏛️ povolzhskiy state university of telecommunications and informatics  
