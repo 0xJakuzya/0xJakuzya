@@ -7,7 +7,7 @@
 ## about me
 
 i’m a computer science undergraduate interested in machine learning, data analysis, and software engineering. 
-i do research at the Institute of Neuroscience and study Data Science.
+i do research at the institute of neuroscience and study data Science.
 
 ## interests
 
