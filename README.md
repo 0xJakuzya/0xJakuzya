@@ -1,4 +1,4 @@
-# hi, i'm dmitrii 
+# hi, i'm dmitrii 👋
 
 🎓 3rd-year BSc in computer science  
 🏛️ povolzhskiy state university of telecommunications and informatics  
@@ -14,7 +14,7 @@ i do research at the institute of neuroscience and study data Science.
 - machine Learning
 - data Analysis
 - artificial Intelligence
-- software Engineering
+- software engineering
 - applied research in neuroscience
 
 ## contact
