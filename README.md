@@ -1,20 +1,13 @@
 # hi, i'm dmitrii 
 
-🎓 3rd-year BSc in computer science  
-🧠 intern researcher at the institute of neuroscience  
-
 ## about me
 
-i’m a computer science undergraduate interested in machine learning, data analysis, and software engineering. 
-i do research at the institute of neuroscience and study data science.
+i’m a 3rd-year computer science undergraduate.
 
-## interests
+i’ve always been curious about medicine and how the human brain works. 
+now i’m combining that interest with computer science and machine learning at the institute of neuroscience.
 
-- machine learning
-- data analysis
-- artificial intelligence
-- software engineering
-- applied research in neuroscience
+i hope to continue in research and pursue a PhD in the future!
 
 ## contact
 
