@@ -16,9 +16,10 @@ i hope to continue in research and pursue a PhD in AI/ML to deepen understanding
 ## github stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xJakuzya&theme=transparent&hide_border=true&background=0b1220&ring=7aa2f7&fire=9d7cd8&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=7aa2f7" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xJakuzya&bg_color=0b1220&color=7aa2f7&line=9d7cd8&point=cbd5e1&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xJakuzya&bg_color=0b1220&color=7aa2f7&line=9d7cd8&point=cbd5e1&area=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=0xJakuzya&theme=transparent&hide_border=true&background=0b1220&ring=7aa2f7&fire=9d7cd8&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=7aa2f7" height="170"/>
 </p>
+
