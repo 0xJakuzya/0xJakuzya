@@ -13,8 +13,6 @@ i hope to continue in research and pursue a PhD in AI/ML to deepen understanding
 - email: jakuzyadd@gmail.com  
 - telegram: @jakuzya
 
-## github stats
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xJakuzya&bg_color=0b1220&color=7aa2f7&line=9d7cd8&point=cbd5e1&area=true&hide_border=true" />
 </p>
