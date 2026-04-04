@@ -17,5 +17,4 @@ i hope to continue in research and pursue a PhD in AI/ML to deepen understanding
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=0xJakuzya&theme=tokyonight&hide_border=true&background=0b1220" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xJakuzya&bg_color=0b1220&color=7aa2f7&line=9d7cd8&point=cbd5e1&area=true&hide_border=true" />
 </p>
