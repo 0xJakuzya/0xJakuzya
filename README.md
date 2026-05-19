@@ -11,5 +11,5 @@
 
 ## contact
 
-- 📧 email: jakuzyadd@gmail.com
-- 💬 telegram: @jakuzya
+- email: jakuzyadd@gmail.com
+- telegram: @jakuzya
