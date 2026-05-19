@@ -4,8 +4,6 @@
 
 ## about me
 
-> computer science · machine learning · neuroscience · research
-
 - 🎓 3rd-year computer science undergraduate
 - 🧠 involved in research at the Institute of Neuroscience
 - 🧬 focused on machine learning and artificial intelligence in medicine
