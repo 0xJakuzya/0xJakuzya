@@ -4,13 +4,14 @@
 
 ## about me
 
-i’m a 3rd-year computer science undergraduate. i’ve always been curious about medicine and how the human brain works. 
+> computer science · machine learning · neuroscience · research
 
-now i’m combining that interest with computer science and machine learning at the institute of neuroscience. 
-
-i hope to continue in research and pursue a PhD in AI/ML to deepen understanding of intelligence — both artificial and biological.
+- 🎓 3rd-year computer science undergraduate
+- 🧠 involved in research at the Institute of Neuroscience
+- 🧬 focused on machine learning and artificial intelligence in medicine
+- 🔬 planning to continue in research and pursue a PhD in AI/ML
 
 ## contact
 
-- email: jakuzyadd@gmail.com  
-- telegram: @jakuzya
+- 📧 email: jakuzyadd@gmail.com
+- 💬 telegram: @jakuzya
