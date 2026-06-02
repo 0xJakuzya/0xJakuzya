@@ -5,7 +5,7 @@
 ## about me
 
 - 3rd-year computer science undergraduate
-- work in research at the Institute of Neuroscience
+- work in research institute of neuroscience
 - focused on machine learning and artificial intelligence in medicine
 
 ## contact
