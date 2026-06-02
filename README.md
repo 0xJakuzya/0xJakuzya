@@ -7,7 +7,6 @@
 - 3rd-year computer science undergraduate
 - involved in research at the Institute of Neuroscience
 - focused on machine learning and artificial intelligence in medicine
-- planning to continue in research and pursue a PhD in AI/ML
 
 ## contact
 
