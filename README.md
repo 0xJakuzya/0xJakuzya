@@ -5,4 +5,3 @@ i'm dmitrii, a 3rd-year computer science undergraduate and ml-engineer working a
 ## contact
 
 - email: jakuzyadd@gmail.com
-- telegram: [@jakuzya](https://t.me/jakuzya)
