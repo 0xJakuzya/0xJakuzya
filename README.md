@@ -1,7 +1,9 @@
-## about me
+## About me
 
-i'm dmitrii, a 3rd-year computer science undergraduate and R&D engineer working at a neuroscience research institute. my main focus is machine learning and artificial intelligence for medicine
+I'm Dmitrii, a 3rd-year Computer Science undergraduate at PSUTI and an R&D Engineer working at a neuroscience research institute. I focus on machine learning and artificial intelligence applications in medicine, with a particular interest in neuroscience and biomedical signal analysis.
 
-## contact
+In addition to working with medical signals, I develop practical software tools, embedded firmware for microcontrollers, and hardware-related solutions for biomedical and research applications.
 
-- email: jakuzyadd@gmail.com
+## Contact
+
+- Email: jakuzyadd@gmail.com
