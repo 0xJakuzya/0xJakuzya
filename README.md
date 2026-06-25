@@ -1,6 +1,6 @@
 ## about me
 
-i'm dmitrii, a 3rd-year computer science undergraduate and ml-engineer working at a neuroscience research institute. my main focus is machine learning and artificial intelligence for medicine
+i'm dmitrii, a 3rd-year computer science undergraduate and R&D engineer working at a neuroscience research institute. my main focus is machine learning and artificial intelligence for medicine
 
 ## contact
 
